@@ -8,7 +8,7 @@ profile:
   image: avatar.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room 307</p>
+    <p>Zhejiang Wenzhou</p>
     <p>School of Journalism and Communication, Nanjing University (Xianlin Campus)</p>
     <p>163 Xianlin Street, Nanjing, Jiangsu Province 210023</p>
 
@@ -18,15 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Cheng-Jun Wang is currently an associate  professor in the [School of Journalism and Communication, Nanjing University](http://jc.nju.edu.cn). He is the director of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://chengjun.github.io/socrateslab/). He is also a research member of [Web Mining Lab](http://weblab.com.cityu.edu.hk), City University of Hong Kong. His research interest focuses on employing big data, computational methods, and social theories to study human communication behaviors, including but not limited to information diffusion, attention flow, and computational narrative. His research on computational communication appears in both SSCI and SCI indexed journals. His new book **Jumping over the network threshold: Information diffusion on social media** (in Chinese [《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/)) has recently been published by the Science Press in July 2022. You can find his [CV](cv/) here.
+Miao Jiajia, a postgraduate student at the School of Journalism and Communication, Nanjing University. I graduated from the School of Journalism and Communication of Hunan University, majoring in advertising. In college, I was in charge of a national innovation training program and published a journal paper. Up to now, I have had three major internships and two social practice projects. I have won the honorary titles of "Provincial Outstanding Graduate", "School Merit Student", "School Outstanding Student Leader", and won the national scholarship. I am good at writing and event planning, and proficient in office software and new media operation software, such as Xiumi, PS and PR. In addition, I also have a certain degree of mastery of data analysis software, such as SPSS and Python.
 
-<img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
+<img src="https://usercontent.githubfast.com/user-images/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
 
 
 
 <br>
     
-✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md)
+✏️ [Edit this page](https://githubfast.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md)
 
 <br>
 
