@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 profile:
   align: right
-  image: avatar.jpeg
+  image: MIAO.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Zhejiang Wenzhou</p>
