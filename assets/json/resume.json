@@ -22,20 +22,6 @@
       }
     ]
   },
-
-  "education": [
-    {
-      "institution": "Nanjing University, Nanjing, China",
-      "url": "",
-      "area": "Communication",
-      "studyType": "Master Student",
-      "startDate": "2023",
-      "endDate": "Now",
-      "score": "",
-      "courses": ""
-    }
-  ],
-  
   "work": [
     {
       "name": "Hunantv.com Interactive Entertainment Media Co. Ltd",
@@ -49,9 +35,19 @@
       ]
     }
   ],
-  
   "volunteer": [],
-  
+  "education": [
+    {
+      "institution": "Nanjing University, Nanjing, China",
+      "url": "",
+      "area": "Communication",
+      "studyType": "Master Student",
+      "startDate": "2023",
+      "endDate": "Now",
+      "score": "",
+      "courses": ""
+    }
+  ],
   "awards": [
     {
       "title": "Outstanding graduates of Hunan Province",
