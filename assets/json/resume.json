@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Cheng-Jun Wang",
+    "name": "Jia-Jia Miao",
     "label": "",
     "image": "",
-    "email": "wangchengjun@nju.edu.cn",
+    "email": "736060047@qq.com",
     "phone": "",
-    "url": "https://socratesclub.github.io/",
+    "url": "https://miaojj0307.github.io/",
     "summary": "",
     "location": {
       "address": "163 Xianlin Street",
@@ -17,37 +17,35 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "ChengJunWang",
-        "url": "https://twitter.com/ChengJunWang"
+        "username": "miso010307",
+        "url": "https://twitter.com/miso010307"
       }
     ]
   },
   "work": [
     {
       "name": "School of Journalism and Communication, Nanjing University",
-      "position": "Associate Professor",
+      "position": "Master Student",
       "url": "",
-      "startDate": "2017",
+      "startDate": "2023",
       "endDate": "Now",
       "summary": "",
       "highlights": [
-        "Computational Communication"
+        "Communication"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "City University of Hong Kong, Hong Kong, China",
+      "institution": "Nanjing University, Nanjing, China",
       "url": "",
-      "area": "Media and Communication",
-      "studyType": "PhD",
-      "startDate": "2010",
-      "endDate": "2014",
+      "area": "Communication",
+      "studyType": "Master Student",
+      "startDate": "2023",
+      "endDate": "Now",
       "score": "",
-      "courses": [
-        "Information Diffusion"
-      ]
+      "courses": ""
     }
   ],
   "awards": [
