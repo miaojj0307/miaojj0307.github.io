@@ -22,20 +22,7 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "School of Journalism and Communication, Nanjing University",
-      "position": "Master Student",
-      "url": "",
-      "startDate": "2023",
-      "endDate": "Now",
-      "summary": "",
-      "highlights": [
-        "Communication"
-      ]
-    }
-  ],
-  "volunteer": [],
+
   "education": [
     {
       "institution": "Nanjing University, Nanjing, China",
@@ -48,11 +35,28 @@
       "courses": ""
     }
   ],
+  
+  "practice": [
+    {
+      "name": "Hunantv.com Interactive Entertainment Media Co. Ltd",
+      "position": "Advertising Planning Intern",
+      "url": "",
+      "startDate": "202210",
+      "endDate": "202302",
+      "summary": "",
+      "highlights": [
+        "Advertising"
+      ]
+    }
+  ],
+  
+  "volunteer": [],
+  
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
+      "title": "Outstanding graduates of Hunan Province",
+      "date": "2023",
+      "awarder": "Miao Jia-Jia",
       "summary": ""
     }
   ],
