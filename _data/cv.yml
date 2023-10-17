@@ -2,50 +2,48 @@
   type: map
   contents:
     - name: Full Name
-      value: Cheng-Jun Wang
+      value: Jia-Jia Miao
     - name: Date of Birth
-      value: 26th May 1885
+      value: 7th March 2001
     - name: Languages
-      value: English, Chinese
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: City University of Hong Kong, Hong Kong, China
-      year: 2014
-    - title: MA
-      institution: Peking University, Beijing, China
-      year: 2010
+    - title: Master Student
+      institution: Nanjing University, Nanjing, China
+      year: 2023 - Now
     - title: BA
-      institution: Lanzhou University, Lanzhou, China
-      year: 2008
+      institution: Hunan University, Hunan, China
+      year: 2019 - 2023
 
-
-- title: Experience
+- title: Organizational Member
   type: time_table
   contents:
-    - title: Associate Professor 
-      institution: School of Journalism and Communication, Nanjing University
-      year: 2017 - Now
-    - title: Assistant Research Fellow
-      institution: School of Journalism and Communication, Nanjing University
-      year: 2014 - 2017
-    - title: Director
-      institution: Socrates Lab, Computational Communication Collaboratory, Nanjing University.
-      year: 2015 - Now
+    - title: Organizational Member 
+      institution: Organization for Undergraduate Journalism and Communication, Hunan university
+      year: 2022 - 2023
+    - title: Journalist and editor
+      institution: College Official Account, Hunan university
+      year: 2020 - 2022
+    - title: Director of Activities Department
+      institution: Hunan University Community Management Department, Hunan university
+      year: 2020 - 2021
+    - title: Grade Leader
+      institution: School of Journalism and Communication, Hunan university
+      year: 2019 - 2021
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Computational Communication
+    - title: Communication & Advertising
       items: 
-        - Information Diffusion.
-        - Attention Flow.
-        - Computational Narrative.
-
+        - Cultural Travel.
+        - Brand Communication.
+        - Video Communication.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Badminton and Drawing.
+    - <u>Hobbies:</u> Traveling and Watching TV series.
