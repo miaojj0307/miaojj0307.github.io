@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Media History Research
-date: 2023-10-17 09:56:00-0400
-description: a blog post with media history research
+title: Chicago School Studies
+date: 2023-10-11 09:56:00-0400
+description: a blog post with chicago school studies
 tags: formatting bib
 categories: sample-posts
 giscus_comments: true
