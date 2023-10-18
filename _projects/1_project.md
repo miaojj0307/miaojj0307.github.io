@@ -15,14 +15,14 @@ Nanjing University, located in the historic city of Nanjing, has played a signif
         {% include figure.html path="assets/img/13.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/14.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/19.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/15.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    University has embraced the significant opportunities to propel its development. Nanjing University now offers a wide range of programs, from science, engineering, and medicine, to art, humanities, and social sciences.
+    Gulou Campus, Xianlin Campus, Nanjing University
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,7 +30,7 @@ Nanjing University, located in the historic city of Nanjing, has played a signif
     </div>
 </div>
 <div class="caption">
-    Xianlin Campus, Nanjing University
+    School of Journalism and Communication, Nanjing University
 </div>
 
 Today, the University’s abbreviation “NJU” reinterprets the school beyond its well-known acronym. It not only stands for Nanjing University, but also stands for “Now Join Us,” and to promote a joint future together, “New Journey United.” We look forward to joining hands with you on this new journey towards the betterment of the nation, the world, and humanity, as well as the realization of a community with a shared future for mankind!
@@ -38,7 +38,7 @@ Today, the University’s abbreviation “NJU” reinterprets the school beyond 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/17.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/20.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/18.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
