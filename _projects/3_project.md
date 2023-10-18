@@ -1,9 +1,8 @@
 ---
 layout: page
-title: my wonderful life 
-description: I like my life now
-img: assets/img/40.JPG
-redirect: https://unsplash.com
+title: my daily life 
+description: Enjoying our life!
+img: assets/img/43.jpg
 importance: 3
 category: work
 ---
@@ -26,11 +25,11 @@ If you treat life with respect and diligence, you will see that life is more tha
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/40.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/43.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-   Houhu, Hunan University, Changsha
+   Xie Zilong Photography Museum, Changsha
 </div>
 
 It's like planting a seed. You have to nurture it, water it, and give it attention every day for it to eventually grow into a fully bloomed flower. Similarly, by taking small steps each day towards your goals, you set yourself up for long-term success and achievement. Accomplishments and joy will come relatively easily when you've spent time planting the right seeds.
