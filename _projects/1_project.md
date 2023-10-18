@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My school
-description: a project with my school
+title: My study life
+description: Three years of study in NJU
 img: assets/img/16.JPG
 importance: 1
 category: work
@@ -38,7 +38,7 @@ Today, the University’s abbreviation “NJU” reinterprets the school beyond 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/28.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/30.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/18.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
