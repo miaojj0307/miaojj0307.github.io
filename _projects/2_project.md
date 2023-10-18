@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: My experience
+description: The most memorable internship
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Mango TV is a new media audio-visual integrated communication service platform based on audio-visual interaction as the core, integrating network characteristics and TV characteristics into one, realizing "multi-screen integration" single-broadcast, cross-screen and self-made, and is also the only Internet video platform under Hunan Radio and Television.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -33,7 +22,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Advertising Management Center, Changsha, Hunan
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,12 +30,10 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Hunan Broadcasting System, Changsha, Hunan
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+Mango TV is operated by Hunan Happy Sunshine Interactive Entertainment Media Co., LTD., which has been rated as one of China's Top 100 Internet enterprises for five consecutive years and one of the World's Top 500 Media Enterprises for four consecutive years. In 2022, Hunan Satellite TV x Mango TV won 12 low-light honors at the Weibo Video World Conference.
 
 
 <div class="row justify-content-sm-center">
@@ -61,21 +48,8 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Looking forward to the future internship and work!
 
 {% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
+
 {% endraw %}
